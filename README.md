@@ -5,3 +5,6 @@
 [Run](https://repl.it/@wolfian/2048#.replit) on repl.
 
 Additional module dependecies include: tabulate
+
+Screenshots:
+<img src="https://github.com/wolfian/2048/blob/master/2048-text-mode-ss.png" width="450" height=450""/>
