@@ -7,4 +7,6 @@
 Additional module dependecies include: tabulate
 
 Screenshots:
-<img src="https://github.com/wolfian/2048/screenshots/2048-text-mode-ss.png"/>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/wolfian/2048/master/2048-text-mode-ss.png" height ="360" width="400"/>
+</p>
