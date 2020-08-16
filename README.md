@@ -2,8 +2,6 @@
 
 2048 text-mode written in python. (Check code [here](https://github.com/wolfian/2048/tree/master/text-mode))
 
-[![Run on Repl.it](https://repl.it/@wolfian/2048#.replit)](https://repl.it/@wolfian/2048#.replit)
-[![Run on Repl.it](https://repl.it/badge/github/wolfian/sudoku-2048)](https://repl.it/github/wolfian/2048)
 
 Additional module dependecies include: tabulate
 
